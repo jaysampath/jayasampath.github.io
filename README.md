@@ -1,6 +1,6 @@
 # jaysampath.github.io
 
-My site:  
+My Portfolio:  
 
 <p> https://jaysampath.github.io/ </p>
 
